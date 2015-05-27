@@ -1,0 +1,25 @@
+/*
+    Document   : vindinium.css
+    Created on : 2015-05-26 06:36 PM
+    Author     : JMorales
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+body{
+   background-image: url("http://tristandenyer.com/assets/ps-tut-grip-final.jpg")
+}
+#navBar{
+  text-align:center;
+}
+
+#navBar a{
+  display:inline-block;
+  width:150px;
+  height:45px;
+  Border:2px solid red;  
+}

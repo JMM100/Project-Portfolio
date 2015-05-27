@@ -1,0 +1,46 @@
+/*
+    Document   : html.css
+    Created on : 2015-05-26 04:34 PM
+    Author     : JMorales
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+body{
+   background-image: url("http://tristandenyer.com/assets/ps-tut-grip-final.jpg")
+}
+
+#mainBody{
+  text-align:center;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+a{
+  display:inline-block;
+}
+div{
+    text-align: center;
+  }
+  
+.button{
+  Border:2px solid red;
+  height:45px;
+  width:150px;
+}
+ol{
+  font-size: 1.5em;
+  text-align:left;
+  color:white;
+}
+ul{
+  font-size: 1.5em;
+  text-align:left;
+  color:white;
+}
